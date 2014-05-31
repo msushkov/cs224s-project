@@ -7,6 +7,8 @@ import ddlib  # Load the ddlib Python library for NLP functions
 for line in sys.stdin:
   # Load the JSON object
   row = json.loads(line)
+
+  sys.stderr.write("SUSHKOV!!!!" + line)
   
   # Output data
-  print json.dumps(row)
+  # print json.dumps(row)
