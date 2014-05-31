@@ -1,5 +1,5 @@
 
-
+-- our dataset
 DROP TABLE IF EXISTS original_features CASCADE;
 CREATE TABLE original_features (
   dateid text,
@@ -26,8 +26,17 @@ CREATE TABLE original_features (
   transcript text
 );
 
+-- the unigram feature for each date
 DROP TABLE IF EXISTS unigram CASCADE;
 CREATE TABLE unigram (
   dateid text,
   feature text
+);
+
+-- contains the variable we want to predict
+DROP TABLE IF EXISTS enjoyable CASCADE;
+CREATE TABLE enjoyable (
+  dateid text,
+  is_enjoyable boolean,
+  id bigint
 );

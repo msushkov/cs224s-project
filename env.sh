@@ -20,5 +20,9 @@ export SBT_OPTS="-Xmx$MEMORY"
 # Using ddlib
 export PYTHONPATH=$DEEPDIVE_HOME/ddlib:$PYTHONPATH
 
+# Need these environment variables for the sampler
+export LD_LIBRARY_PATH=$DEEPDIVE_HOME/lib/dw_mac/lib/protobuf/lib:$DEEPDIVE_HOME/lib/dw_mac/lib
+export DYLD_LIBRARY_PATH=$DEEPDIVE_HOME/lib/dw_mac
+
 # The data
 export DATA_DIR=$APP_HOME/data
