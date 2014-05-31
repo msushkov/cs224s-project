@@ -10,10 +10,12 @@ In env.sh, change
 to the appropriate DeepDive directory.
 
 First time:
+    
     >> source env.sh
     >> sh setup_database.sh
     >> ./run.sh
 
 Iterating:
+    
     >> source env.sh
     >> ./run.sh
