@@ -26,3 +26,12 @@ export DYLD_LIBRARY_PATH=$DEEPDIVE_HOME/lib/dw_mac
 
 # The data
 export DATA_DIR=$APP_HOME/data
+
+# Prosodic feature file
+export PROSODIC_FEATURES=$DATA_DIR/FINAL_Prosodic.csv
+
+# Metadata features per person
+export METADATA=$DATA_DIR/FINAL_Metadata.csv
+
+# The output labels
+export OUTPUT=$DATA_DIR/FINAL_Output.csv

@@ -7,3 +7,6 @@ cd $DEEPDIVE_HOME
 #deepdive -c $APP_HOME/application.conf
 ### Compile and run:
 sbt "run -c $APP_HOME/application.conf"
+
+echo "EVALUATING RESULTS!!!"
+sh "$APP_HOME/evaluate.sh"
