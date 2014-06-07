@@ -35,3 +35,6 @@ export METADATA=$DATA_DIR/FINAL_Metadata.csv
 
 # The output labels
 export OUTPUT=$DATA_DIR/FINAL_Output.csv
+
+# The textual features
+export TEXTUAL=$DATA_DIR/FINAL_Textual.csv

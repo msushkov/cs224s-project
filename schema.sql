@@ -125,6 +125,35 @@ CREATE TABLE prosodic_features (
   rms_mean_sd double precision
 );
 
+DROP TABLE IF EXISTS textual_features;
+CREATE TABLE textual_features (
+  dateid text,
+  self_id text,
+  other_id text,
+  tot_words double precision,
+  love double precision,
+  i_mean_discourse double precision,
+  sex double precision,
+  meta double precision,
+  negate double precision,
+  um_discourse double precision,
+  negemo double precision,
+  appreciation double precision,
+  tot_question_words double precision,
+  you_know_discourse double precision,
+  hate double precision,
+  food double precision,
+  uh_discourse double precision,
+  you double precision,
+  I double precision,
+  drink double precision,
+  like_discourse double precision,
+  hedge double precision,
+  academics double precision,
+  laughter double precision,
+  agree double precision
+);
+
 DROP TABLE IF EXISTS outut_labels;
 CREATE TABLE output_labels (
   dateid text,
