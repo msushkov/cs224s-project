@@ -2,6 +2,7 @@
 
 . "$(dirname $0)/env.sh"
 
+
 cd $DEEPDIVE_HOME
 
 prosodic_array=( 0 1 2 )
@@ -21,6 +22,9 @@ do
 		do
 			for t in "${textual_array[@]}"
 			do
+				echo -e ">>>>>>>>> $DATA_DIR"
+				echo -e "   -------> PROSODIC: $p, META: $m, TEXTUAL: $t"
+
 				export prosodic=$p
 				export meta=$m
 				export textual=$t
@@ -29,7 +33,7 @@ do
 
 				file="$APP_HOME/output/male_3buckets_midis50_threshold50/output_${i}_${m}_${p}_${t}.out"
 				
-				sh evaluate.sh > $file
+				sh $APP_HOME/evaluate.sh > $file
 				cat $file
 			done
 		done

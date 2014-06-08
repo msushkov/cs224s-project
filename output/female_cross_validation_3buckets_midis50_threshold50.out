@@ -1,0 +1,54 @@
+META: 0, PROSODIC: 0, TEXTUAL: 0
+---> precision: 0.591987, recall: 0.491152, f1: 0.536818, accuracy: 0.501758
+
+META: 0, PROSODIC: 0, TEXTUAL: 2
+---> precision: 0.623364, recall: 0.739721, f1: 0.676536, accuracy: 0.585413
+
+META: 0, PROSODIC: 1, TEXTUAL: 0
+---> precision: 0.754211, recall: 0.757397, f1: 0.755791, accuracy: 0.712980
+
+META: 0, PROSODIC: 1, TEXTUAL: 2
+---> precision: 0.765462, recall: 0.736240, f1: 0.750535, accuracy: 0.712743
+
+META: 0, PROSODIC: 2, TEXTUAL: 0
+---> precision: 0.778387, recall: 0.766197, f1: 0.772207, accuracy: 0.734501
+
+META: 0, PROSODIC: 2, TEXTUAL: 2
+---> precision: 0.766709, recall: 0.760244, f1: 0.763423, accuracy: 0.723518
+
+META: 1, PROSODIC: 0, TEXTUAL: 0
+---> precision: 0.604280, recall: 0.719218, f1: 0.656741, accuracy: 0.557989
+
+META: 1, PROSODIC: 0, TEXTUAL: 2
+---> precision: 0.654486, recall: 0.705244, f1: 0.678864, accuracy: 0.608127
+
+META: 1, PROSODIC: 1, TEXTUAL: 0
+---> precision: 0.785260, recall: 0.777465, f1: 0.781284, accuracy: 0.744628
+
+META: 1, PROSODIC: 1, TEXTUAL: 2
+---> precision: 0.748956, recall: 0.747887, f1: 0.748412, accuracy: 0.704959
+
+META: 1, PROSODIC: 2, TEXTUAL: 0
+---> precision: 0.786018, recall: 0.776056, f1: 0.781004, accuracy: 0.744628
+
+META: 1, PROSODIC: 2, TEXTUAL: 2
+---> precision: 0.756267, recall: 0.764789, f1: 0.760465, accuracy: 0.717122
+
+META: 2, PROSODIC: 0, TEXTUAL: 0
+---> precision: 0.613677, recall: 0.696753, f1: 0.652576, accuracy: 0.564209
+
+META: 2, PROSODIC: 0, TEXTUAL: 2
+---> precision: 0.638638, recall: 0.708264, f1: 0.671611, accuracy: 0.593878
+
+META: 2, PROSODIC: 1, TEXTUAL: 0
+---> precision: 0.752127, recall: 0.769014, f1: 0.760450, accuracy: 0.715702
+
+META: 2, PROSODIC: 1, TEXTUAL: 2
+---> precision: 0.754369, recall: 0.736240, f1: 0.745173, accuracy: 0.704472
+
+META: 2, PROSODIC: 2, TEXTUAL: 0
+---> precision: 0.749009, recall: 0.760563, f1: 0.754737, accuracy: 0.709917
+
+META: 2, PROSODIC: 2, TEXTUAL: 2
+---> precision: 0.744922, recall: 0.719718, f1: 0.732098, accuracy: 0.690909
+
