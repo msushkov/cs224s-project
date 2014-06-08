@@ -38,10 +38,12 @@ META: 2, PROSODIC: 0, TEXTUAL: 0
 ---> precision: 0.773066, recall: 0.767606, f1: 0.770315, accuracy: 0.731405
 
 META: 2, PROSODIC: 0, TEXTUAL: 2
----> precision: 0.775492, recall: 0.784198, f1: 0.779780, accuracy: 0.740064
+---> precision: 0.775492, recall: 0.784198, f1: 0.779780, accuracy:
+0.7235
 
 META: 2, PROSODIC: 1, TEXTUAL: 0
----> precision: 0.778883, recall: 0.770103, f1: 0.774418, accuracy: 0.736974
+---> precision: 0.778883, recall: 0.770103, f1: 0.774418, accuracy: 
+0.7386236
 
 META: 2, PROSODIC: 1, TEXTUAL: 2
 ---> precision: 0.763214, recall: 0.771831, f1: 0.767492, accuracy: 0.725620
