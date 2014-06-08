@@ -25,3 +25,7 @@ echo "Done loading prosodic features."
 echo "Loading output labels..."
 psql $DBNAME -c "COPY output_labels FROM STDIN CSV HEADER;" < $OUTPUT
 echo "Done loading output labels."
+
+echo "Loading textual features..."
+psql $DBNAME -c "COPY textual_features FROM STDIN CSV HEADER;" < $TEXTUAL
+echo "Done loading textual features."
