@@ -1,54 +1,54 @@
 META: 0, PROSODIC: 0, TEXTUAL: 0
----> precision: 0.591987, recall: 0.491152, f1: 0.536818, accuracy: 0.501758
+---> precision: 0.593949, recall: 0.490756, f1: 0.537281, accuracy: 0.504521
 
 META: 0, PROSODIC: 0, TEXTUAL: 2
----> precision: 0.623364, recall: 0.739721, f1: 0.676536, accuracy: 0.585413
+---> precision: 0.606566, recall: 0.725352, f1: 0.660627, accuracy: 0.562094
 
 META: 0, PROSODIC: 1, TEXTUAL: 0
----> precision: 0.754211, recall: 0.757397, f1: 0.755791, accuracy: 0.712980
+---> precision: 0.642076, recall: 0.775882, f1: 0.702613, accuracy: 0.614777
 
 META: 0, PROSODIC: 1, TEXTUAL: 2
----> precision: 0.765462, recall: 0.736240, f1: 0.750535, accuracy: 0.712743
+---> precision: 0.665095, recall: 0.769429, f1: 0.713412, accuracy: 0.637343
 
 META: 0, PROSODIC: 2, TEXTUAL: 0
----> precision: 0.778387, recall: 0.766197, f1: 0.772207, accuracy: 0.734501
+---> precision: 0.662927, recall: 0.747188, f1: 0.702534, accuracy: 0.627935
 
 META: 0, PROSODIC: 2, TEXTUAL: 2
----> precision: 0.766709, recall: 0.760244, f1: 0.763423, accuracy: 0.723518
+---> precision: 0.669692, recall: 0.745071, f1: 0.705348, accuracy: 0.634402
 
 META: 1, PROSODIC: 0, TEXTUAL: 0
----> precision: 0.604280, recall: 0.719218, f1: 0.656741, accuracy: 0.557989
+---> precision: 0.773964, recall: 0.761972, f1: 0.767900, accuracy: 0.729752
 
 META: 1, PROSODIC: 0, TEXTUAL: 2
----> precision: 0.654486, recall: 0.705244, f1: 0.678864, accuracy: 0.608127
+---> precision: 0.762313, recall: 0.767606, f1: 0.764931, accuracy: 0.722914
 
 META: 1, PROSODIC: 1, TEXTUAL: 0
----> precision: 0.785260, recall: 0.777465, f1: 0.781284, accuracy: 0.744628
+---> precision: 0.784818, recall: 0.785916, f1: 0.785361, accuracy: 0.747934
 
 META: 1, PROSODIC: 1, TEXTUAL: 2
----> precision: 0.748956, recall: 0.747887, f1: 0.748412, accuracy: 0.704959
+---> precision: 0.770559, recall: 0.795485, f1: 0.782781, accuracy: 0.741117
 
 META: 1, PROSODIC: 2, TEXTUAL: 0
----> precision: 0.786018, recall: 0.776056, f1: 0.781004, accuracy: 0.744628
+---> precision: 0.755242, recall: 0.813835, f1: 0.783414, accuracy: 0.736148
 
 META: 1, PROSODIC: 2, TEXTUAL: 2
----> precision: 0.756267, recall: 0.764789, f1: 0.760465, accuracy: 0.717122
+---> precision: 0.747426, recall: 0.791549, f1: 0.768826, accuracy: 0.720661
 
 META: 2, PROSODIC: 0, TEXTUAL: 0
----> precision: 0.613677, recall: 0.696753, f1: 0.652576, accuracy: 0.564209
+---> precision: 0.770881, recall: 0.754570, f1: 0.762622, accuracy: 0.724557
 
 META: 2, PROSODIC: 0, TEXTUAL: 2
----> precision: 0.638638, recall: 0.708264, f1: 0.671611, accuracy: 0.593878
+---> precision: 0.763769, recall: 0.742254, f1: 0.752849, accuracy: 0.713820
 
 META: 2, PROSODIC: 1, TEXTUAL: 0
----> precision: 0.752127, recall: 0.769014, f1: 0.760450, accuracy: 0.715702
+---> precision: 0.790188, recall: 0.795775, f1: 0.792933, accuracy: 0.756198
 
 META: 2, PROSODIC: 1, TEXTUAL: 2
----> precision: 0.754369, recall: 0.736240, f1: 0.745173, accuracy: 0.704472
+---> precision: 0.772464, recall: 0.774648, f1: 0.773529, accuracy: 0.733884
 
 META: 2, PROSODIC: 2, TEXTUAL: 0
----> precision: 0.749009, recall: 0.760563, f1: 0.754737, accuracy: 0.709917
+---> precision: 0.758944, recall: 0.784507, f1: 0.771476, accuracy: 0.727273
 
 META: 2, PROSODIC: 2, TEXTUAL: 2
----> precision: 0.744922, recall: 0.719718, f1: 0.732098, accuracy: 0.690909
+---> precision: 0.747258, recall: 0.766197, f1: 0.756553, accuracy: 0.710744
 

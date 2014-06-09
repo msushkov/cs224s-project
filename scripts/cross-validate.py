@@ -3,7 +3,7 @@ m_list = [0, 1, 2]
 p_list = [0, 1, 2]
 t_list = [0, 2]
 
-male_or_female = "male"
+male_or_female = "female"
 
 output_file = "../output/%s_cross_validation_3buckets_midis50_threshold50.out" % male_or_female
 out = open(output_file, 'w')
